@@ -46,3 +46,4 @@ const numeros ={0 : 'Zero',1: 'Um',2 :'Dois',3: 'Três',4:'Quatro',5: 'Cinco',6:
                   mudarNumero();
                   
                   numero.addEventListener('input', mudarNumero);
+// teste
